@@ -6,7 +6,7 @@ let ready=false;
 let totalImage=0;
 let loadedImage=0;
 let count=5;
-const apiKey='vBSnzv6kxwqtMFoXujIVcczsL_bbucq1LGgUPYdSUwE';
+const apiKey='YOUR API KEY';
 
 let apiUrl=`https://api.unsplash.com/photos/random?client_id=${apiKey}&count=${count}&topics=6sMVjTLSkeQ`;
 
